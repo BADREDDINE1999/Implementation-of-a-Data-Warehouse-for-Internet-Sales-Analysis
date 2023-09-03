@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_Project_Asri", "SSRS_Project_Asri\SSRS_Project_Asri.rptproj", "{81C11FD8-D297-4F88-8171-C26369533EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.Debug|Default.ActiveCfg = Debug
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.Debug|Default.Build.0 = Debug
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.Debug|Default.Deploy.0 = Debug
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.DebugLocal|Default.Build.0 = DebugLocal
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.Release|Default.ActiveCfg = Release
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.Release|Default.Build.0 = Release
+		{81C11FD8-D297-4F88-8171-C26369533EB2}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A60A9A15-8362-469B-9473-498EF37F6AE5}
+	EndGlobalSection
+EndGlobal

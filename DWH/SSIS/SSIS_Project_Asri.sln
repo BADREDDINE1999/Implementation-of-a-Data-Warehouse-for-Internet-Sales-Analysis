@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_Project_Asri", "SSIS_Project_Asri\SSIS_Project_Asri.dtproj", "{B5555B0D-5897-496B-8577-2975448DC8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5555B0D-5897-496B-8577-2975448DC8BF}.Development|Default.ActiveCfg = Development
+		{B5555B0D-5897-496B-8577-2975448DC8BF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B50473-6258-4191-B204-C479371EB1D1}
+	EndGlobalSection
+EndGlobal
